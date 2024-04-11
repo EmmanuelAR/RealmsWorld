@@ -40,7 +40,7 @@ export default async function Page() {
           public Starknet L2, it rolls-up its state onto Starknet. This allows
           for low transactions fees, high performance and high security
           guarantees. The entire stack is opensource and welcomes contributions.
-          Find out more here dojo
+          Find out more here
         </p>
       </div>
 
